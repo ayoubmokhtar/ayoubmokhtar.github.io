@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ayoubmokhtar.com/post/paypal-bbp-i-couldve-deleted-all-smc-messages-using-brute-force-technique/</loc>
+    <lastmod>2019-04-21T23:40:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ayoubmokhtar.com/</loc>
+    <lastmod>2019-04-21T23:40:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayoubmokhtar.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayoubmokhtar.com/post/</loc>
+    <lastmod>2019-04-21T23:40:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayoubmokhtar.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayoubmokhtar.com/tags/techniques/</loc>
+    <lastmod>2019-04-21T23:40:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayoubmokhtar.com/tags/vulnerabilities/</loc>
+    <lastmod>2019-04-21T23:40:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

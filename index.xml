@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BLOG – Ayoub AIT ELMOKHTAR</title>
+    <link>https://ayoubmokhtar.com/</link>
+    <description>Recent content on BLOG – Ayoub AIT ELMOKHTAR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Apr 2019 23:40:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://ayoubmokhtar.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[PayPal BBP] I Could’ve Deleted All SMC Messages. Using Brute Force Technique.</title>
+      <link>https://ayoubmokhtar.com/post/paypal-bbp-i-couldve-deleted-all-smc-messages-using-brute-force-technique/</link>
+      <pubDate>Sun, 21 Apr 2019 23:40:46 +0100</pubDate>
+      
+      <guid>https://ayoubmokhtar.com/post/paypal-bbp-i-couldve-deleted-all-smc-messages-using-brute-force-technique/</guid>
+      <description>Introduction: While playing around with SMC platform at paypal.com, I came across an interesting endpoint which doesn’t include CSRF token within its request when you delete a message. Cross-Site Request Forgery (CSRF) is an attack that forces an end user to execute unwanted actions on a web application in which they&amp;rsquo;re currently authenticated. CSRF attacks specifically target state-changing requests, not theft of data, since the attacker has no way to see the response to the forged request.</description>
+    </item>
+    
+  </channel>
+</rss>

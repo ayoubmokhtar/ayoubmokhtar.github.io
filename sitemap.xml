@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ayoubmokhtar.com/post/how-oscp-could-reveal-the-real-you/</loc>
+    <lastmod>2019-05-10T17:21:50+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ayoubmokhtar.com/post/paypal-bbp-i-couldve-deleted-all-smc-messages-using-brute-force-technique/</loc>
     <lastmod>2019-04-21T23:40:46+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ayoubmokhtar.com/</loc>
-    <lastmod>2019-04-21T23:40:46+01:00</lastmod>
+    <lastmod>2019-05-10T17:21:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,12 +25,19 @@
   
   <url>
     <loc>https://ayoubmokhtar.com/post/</loc>
-    <lastmod>2019-04-21T23:40:46+01:00</lastmod>
+    <lastmod>2019-05-10T17:21:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ayoubmokhtar.com/tags/stories/</loc>
+    <lastmod>2019-05-10T17:21:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ayoubmokhtar.com/tags/</loc>
+    <lastmod>2019-05-10T17:21:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   

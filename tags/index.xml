@@ -6,9 +6,19 @@
     <description>Recent content in Tags on BLOG – Ayoub AIT ELMOKHTAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 10 May 2019 17:21:50 +0000</lastBuildDate>
     
 	<atom:link href="https://ayoubmokhtar.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stories</title>
+      <link>https://ayoubmokhtar.com/tags/stories/</link>
+      <pubDate>Fri, 10 May 2019 17:21:50 +0000</pubDate>
+      
+      <guid>https://ayoubmokhtar.com/tags/stories/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Techniques</title>

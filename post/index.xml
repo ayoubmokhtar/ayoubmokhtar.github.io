@@ -6,10 +6,19 @@
     <description>Recent content in Posts on BLOG – Ayoub AIT ELMOKHTAR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2019 23:40:46 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2019 17:21:50 +0000</lastBuildDate>
     
 	<atom:link href="https://ayoubmokhtar.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How OSCP could reveal the real you.</title>
+      <link>https://ayoubmokhtar.com/post/how-oscp-could-reveal-the-real-you/</link>
+      <pubDate>Fri, 10 May 2019 17:21:50 +0000</pubDate>
+      
+      <guid>https://ayoubmokhtar.com/post/how-oscp-could-reveal-the-real-you/</guid>
+      <description>Brief overview: Fear, disappointment, failure with many other bad things have been experienced by most of OSCP holders, It’s not a shame to admit it and if you ask people around regarding its difficulty, you will get various types of answers with one signification. OSCP is the toughest exam they&amp;rsquo;ve taken in their lives. Offensive Security Certified Professional. one of the most well-recognized and respected certifications in the security industry.</description>
+    </item>
     
     <item>
       <title>[PayPal BBP] I Could’ve Deleted All SMC Messages. Using Brute Force Technique.</title>
